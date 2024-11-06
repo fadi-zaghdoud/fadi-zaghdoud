@@ -12,10 +12,10 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <p>✨ I’m currently studying at ESPRIT</p>
-<p>🌐 Crafting seamless web experiences with HTML, CSS, and JavaScript.</p>
-<p>⚛️ Diving into modern frameworks like React and Angular to build interactive applications.</p>
-<p>🐍 Mastering Python and Java to unlock the potential of software development.</p>
-
+<p>🌐 Actively working on projects to enhance web experiences and build interactive applications.</p>
+<p>🤝 Open to collaborating on open-source projects and learning from others in the community.</p>
+<p>⚡ Eager to learn new technologies and frameworks to expand skill set.</p>
+<p>🐍 Talk to me about Angular, React, Symfony, Laravel, JavaScript ...</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadi-zaghdoud" alt="fadi-zaghdoud" /></a> </p>
 

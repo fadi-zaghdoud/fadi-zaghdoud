@@ -11,11 +11,11 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-✨  I’m currently studying on ESPRIT
+<p>✨ I’m currently studying at ESPRIT</p>
+<p>🌐 Crafting seamless web experiences with HTML, CSS, and JavaScript.</p>
+<p>⚛️ Diving into modern frameworks like React and Angular to build interactive applications.</p>
+<p>🐍 Mastering Python and Java to unlock the potential of software development.</p>
 
-🌐 Crafting seamless web experiences with HTML, CSS, and JavaScript.
-⚛️ Diving into modern frameworks like React and Angular to build interactive applications.
-🐍 Mastering Python and Java to unlock the potential of software development.
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
